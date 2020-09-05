@@ -20,7 +20,6 @@ Site que fornece serviços para montagem de sua bicicleta.
 - Código do Projeto ✅.
 - Responsividade ✅.
 - Javascript e Animações ✅.
-- Domínio, Hospedagem e Analytics.
 - Considerações Finais ✅.
 
 ## 💻 Wireframe
