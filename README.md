@@ -1,8 +1,8 @@
-# Bikcraft
+# 🚴‍♀ Bikcraft
 
 Site que fornece serviços para montagem de sua bicicleta.
 
-🚴‍♀ <strong>Bikcraft:</strong> é um site que oferece serviços para montagem de sua própria bicicleta personalizada, além de possuir seu diferencial nos produtos de qualidade e mão de obra, oferecendo conforto, versatilidade e design.
+<strong>Bikcraft:</strong> é um site que oferece serviços para montagem de sua própria bicicleta personalizada, além de possuir seu diferencial nos produtos de qualidade e mão de obra, oferecendo conforto, versatilidade e design.
 
 <p align="center">
   <img src="https://www.origamid.com/wp-content/uploads/2018/03/bikecraft.jpg" width="900" title="mockup-bikcraft">
