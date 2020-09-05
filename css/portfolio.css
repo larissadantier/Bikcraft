@@ -1,5 +1,5 @@
 .interna_portfolio {
-	background: url("../img/bg-portfolio.jpg") no-repeat center;
+	background: url('../img/bg-portfolio.jpg') no-repeat center;
 	background-size: cover;
 }
 
@@ -9,9 +9,9 @@
 	margin: 0 auto;
 }
 
-.quote_clientes p{
+.quote_clientes p {
 	text-align: center;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: Georgia, 'Times New Roman', serif;
 	font-size: 18px;
 	line-height: 25px;
 	font-style: italic;
@@ -27,7 +27,8 @@
 
 /*Plugin de Slide*/
 
-.rslides, .rslides_portfolio {
+.rslides,
+.rslides_portfolio {
 	position: relative;
 	list-style: none;
 	overflow: hidden;
@@ -36,7 +37,8 @@
 	margin: 0;
 }
 
-.rslides li, .rslides_portfolio li{
+.rslides li,
+.rslides_portfolio li {
 	-webkit-backface-visibility: hidden;
 	position: absolute;
 	display: none;
@@ -45,13 +47,15 @@
 	top: 0;
 }
 
-.rslides li:first-child, .rslides_portfolio li:first-child{
+.rslides li:first-child,
+.rslides_portfolio li:first-child {
 	position: relative;
 	display: block;
 	float: left;
 }
 
-.rslides img, .rslides_portfolio img {
+.rslides img,
+.rslides_portfolio img {
 	display: block;
 	height: auto;
 	width: 100%;
@@ -63,12 +67,12 @@
 	margin-top: 14px;
 }
 
-.rslides_tabs li{
+.rslides_tabs li {
 	display: inline;
 	margin: 0 5px;
 }
 
-.rslides_tabs li a{
+.rslides_tabs li a {
 	display: inline-block;
 	width: 12px;
 	height: 12px;
@@ -79,7 +83,8 @@
 	text-indent: -200px;
 }
 
-.rslides_tabs li a:hover, .rslides_tabs li.rslides_here a {
+.rslides_tabs li a:hover,
+.rslides_tabs li.rslides_here a {
 	background: #fec63e;
 	color: #fec63e;
 }
