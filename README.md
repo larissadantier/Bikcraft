@@ -23,7 +23,7 @@ Site que fornece serviços para montagem de sua bicicleta.
 - Domínio, Hospedagem e Analytics.
 - Considerações Finais ✅.
 
-## Wireframe
+## 💻 Wireframe
 
 ◼ [Link do projeto: Wireframe](https://xd.adobe.com/view/2e9462d3-44d6-4f33-b2ee-18e616cb68df-7bc7/)
 
@@ -37,6 +37,6 @@ Site que fornece serviços para montagem de sua bicicleta.
 <a href="https://xd.adobe.com/view/2e9462d3-44d6-4f33-b2ee-18e616cb68df-7bc7/"><img src="https://i.ibb.co/svJrQrz/wire.png width="600" title="wireframe-bikcraft-ui"></a>
 <p>
 
-## Considerações Finais
+## 📋 Considerações Finais
 
 Projeto Finalizado ✅.
